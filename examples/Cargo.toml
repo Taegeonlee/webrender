@@ -13,6 +13,9 @@ path = "alpha_perf.rs"
 name = "animation"
 path = "animation.rs"
 
+
+
+
 [[bin]]
 name = "basic"
 path = "basic.rs"
